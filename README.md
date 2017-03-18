@@ -1,6 +1,6 @@
 # vagrant-asterisk-debian
 
-`vagrant-asterisk-debian` is a simple vagrant project which simplify the provision of an Asterisk PBX into a Debian machine. It can be useful if you want to prepare this kind of scenario quickly.
+`vagrant-asterisk-debian` is a simple vagrant project that simplies the provision of an Asterisk PBX into a Debian machine. It can be useful if you want to prepare this kind of scenario quickly.
 
 ## Components:
 * Vagrant Box: `debian/jessie64`
